@@ -1,6 +1,6 @@
 {
   "name": "flvsckeditorcustombuild",
-  "version": "12.4.0",
+  "version": "1.0",
   "description": "A custom build of ckeditor for FLVS Course Builder",
   "keywords": [],
   "main": "./build/ckeditor.js",
