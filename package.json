@@ -1,6 +1,6 @@
 {
   "name": "flvsckeditorcustombuild",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "A custom build of ckeditor for FLVS Course Builder",
   "keywords": [],
   "main": "./build/ckeditor.js",
@@ -42,13 +42,13 @@
     "node": ">=8.0.0",
     "npm": ">=5.7.1"
   },
-  "author": "CKSource (http://cksource.com/)",
+  "author": "Mike Jarrell",
   "license": "GPL-2.0-or-later",
   "homepage": "",
   "bugs": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ckeditor/ckeditor5-build-classic.git"
+    "url": "https://github.com/SwissArmyMike/flvsckeditorcustom.git"
   },
   "scripts": {
     "build": "webpack --mode production",
