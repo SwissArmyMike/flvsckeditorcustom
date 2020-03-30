@@ -49,7 +49,6 @@ ClassicEditor.builtinPlugins = [
   List,
   Heading,
   BlockQuote,
-  AutoFormat,
   RemoveFormat,
   Alignment,
   Mention
